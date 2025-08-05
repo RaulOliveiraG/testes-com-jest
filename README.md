@@ -51,10 +51,7 @@ Precisão nas operações de porcentagem
 
 💡 Observações
 Valores como null e undefined têm comportamentos específicos em JavaScript, e os testes validam isso.
-
 O código está estruturado para ser facilmente expandido com novas funcionalidades.
 
-📝 Licença
-Este projeto está licenciado sob a Licença MIT.
+Feito para fins de aprendizado e testes!
 
-Feito com ❤️ para fins de aprendizado e testes!
